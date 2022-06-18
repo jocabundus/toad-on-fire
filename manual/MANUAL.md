@@ -166,26 +166,26 @@ replenish each time you play a level.
     </thead>
     <tbody>
         <tr>
-            <td><img src="./doc/images/fruit.png" /></td>
+            <td><img src="images/fruit.png" /></td>
             <td>Fruit</td>
             <td>1</td>
-            <td><img src="./doc/images/gem-yellow.png" /></td>
+            <td><img src="images/gem-yellow.png" /></td>
             <td>Yellow Topaz ( Small )</td>
             <td>5</td>
         </tr>
         <tr>
-            <td><img src="./doc/images/corn.png" /></td>
+            <td><img src="images/corn.png" /></td>
             <td>Corn</td>
             <td>1</td>
-             <td><img src="./doc/images/gem-green.png" /></td>
+             <td><img src="images/gem-green.png" /></td>
             <td>Green Emerald</td>
             <td>10</td>
         </tr>
         <tr>
-            <td><img src="./doc/images/food-crate.png" /></td>
+            <td><img src="images/food-crate.png" /></td>
             <td>Food Crate</td>
             <td>3</td>
-            <td><img src="./doc/images/gem-blue.png" /></td>
+            <td><img src="images/gem-blue.png" /></td>
             <td>Blue Aquamarine</td>
             <td>25</td>
         </tr>
@@ -193,7 +193,7 @@ replenish each time you play a level.
             <td></td>
             <td></td>
             <td></td>
-            <td><img src="./doc/images/gem-red.png" /></td>
+            <td><img src="images/gem-red.png" /></td>
             <td>Red Ruby ( Large )</td>
             <td>100</td>
         </tr>
@@ -231,7 +231,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-pikefrog.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-pikefrog.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -256,7 +256,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-marauder.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-marauder.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -279,7 +279,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-fireknight.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-fireknight.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -304,7 +304,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-bishop.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-bishop.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -329,7 +329,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-treehugger.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-treehugger.png" /> </td>
             <td><strong> Hostile </strong></td><td> No <br>
         </tr>
         <tr>
@@ -354,7 +354,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-bluejacket.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-bluejacket.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -379,7 +379,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-yellowjacket.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-yellowjacket.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -404,7 +404,7 @@ facing the chest.
 <table>
     <tbody>
         <tr>
-            <td rowspan="4"> <img src="./doc/images/mob-sheepbomb.png" /> </td>
+            <td rowspan="4"> <img src="images/mob-sheepbomb.png" /> </td>
             <td><strong> Hostile </strong></td><td> Yes <br>
         </tr>
         <tr>
@@ -427,17 +427,17 @@ facing the chest.
 ### Pachyderm
 
 ### Newt
-![ ](./doc/images/mob-hellhound.png)
+![ ](images/mob-hellhound.png)
 ### Hover Crystal
-![ ](./doc/images/mob-probe.png)
+![ ](images/mob-probe.png)
 ### Aerial Drone
-![ ](./doc/images/mob-drone.png)
+![ ](images/mob-drone.png)
 ### Crawler
-![ ](./doc/images/mob-arthropod.png)
+![ ](images/mob-arthropod.png)
 ### Sentry Cannon
-![ ](./doc/images/mob-sentry.png)
+![ ](images/mob-sentry.png)
 ### Mosquitos and Bees
-![ ](./doc/images/mob-fly.png)
+![ ](images/mob-fly.png)
 ### Other Hazards
 Spikes / Electricity
 
