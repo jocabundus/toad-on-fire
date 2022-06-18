@@ -1,4 +1,4 @@
-# Toad On Fire - Game Guide
+# Toad On Fire - Game Instruction Manual
 Thank you for downloading and playing!
 
 1. Controls
