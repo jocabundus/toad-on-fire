@@ -107,11 +107,9 @@ The **respawn point** is the location where you'll restart in the stage after lo
 
 &emsp; ![Checkpoint](images/checkpoint.png) ![Checkpoint (Tagged)](images/checkpoint-tagged.png)
 
-<!--  | ___\/\_\/\_\_\/\_\_\_\/ ATTENSION! \_\_\_\/\_\_\/\_\/\/___                          | -->
-
-| ___\/\_\/\_\_\/\_\_\_\/ &emsp;Attention&emsp; \/\_\_\_\_\_\/\_\_\_\/\_\_\/\_\/___                          |
-| :------------------------------------------------------------------- |  
-| _**\<\!\>** Checkpoints don't save your game progress!<br/>**\<!\>** All checkpoint data is abandoned when you exit a stage.<br/>**\<!\>** Each time you enter a stage, you start from the beginning._ |
+| ___\_\/\_\_\_\/\_\_\_\_\_\/ &emsp;Caution!&emsp; \/\_\_\_\_\_\_\/\_\_\_\_\/\_\_\/\_\/___ |                                          |
+| :--------------------------------------------------------------------------------------- | ---------------------------------------- | 
+|                                                                                          | _- Checkpoints won't save your game progress!<br/>- All checkpoint data is abandoned when you exit a stage.<br/>- Each time you enter a stage, you start from the beginning._ |
 
 ## 5. Basic Gameplay / Movement and Actions <a id="basic-gameplay"/>
 
@@ -124,7 +122,7 @@ Your main weapon will be the flamethrower. You can set things on fire,
 destroy trees, blow up barrels, and destroy enemies with it. Be cautious
 though, because the flamethrower can overheat.
 
-| ___\<\_\/\_\/\_\/\> CAUTION \<\_\/\_\/\_\/\>___                                                                                     |
+| ___\<-\_\/\_\/\_\/-\> Caution! \<-\_\/\_\/\_\/-\>___                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------------- |  
 | \(\/\\\) Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
 
