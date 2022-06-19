@@ -17,10 +17,12 @@
 
 ## 1. Getting Started <a id="getting-started"/>
 
- - ___After opening the game___
- - This will be the same slot that you'll use to load your game.  
- - You start with nothing. As the game progresses, you'll acquire new items and abilities.
- - Your progress will be saved automatically.
+___To being your journey, create a new game . . .___
+ 1. Select ___`Start`___ from the main menu
+ 2. Next, select any row that shows as ___`[ - New Game - ]`___
+    - You'll use this row to load your game in the future
+    - To help you remember, saved games show a summary of details (time played, percent complete, etc.)
+    - Your progress will be saved automatically
 
 ## 2. Default Controls <a id="default-controls"/>
 
@@ -91,13 +93,23 @@ _You can configure any controller from within the game menu._
 
 ## 3. Objective <a id="objective"/>
 
-The main goal is to find and destroy the _teleporter beacons_ at the end of the stage.
-They are surrounded by white-checked flags -- to help you see them better.
+Your primary objective is to search for the _teleporter beacons_ and destroy them with wreckless abandon.  
+Every stage has _at least_ one beacon. They may be surrounded by white-checked flags to help you notice them.
+
+| Beacon                       | __ | Checkered Flag                               |
+| ---------------------------- | -- | -------------------------------------------- |
+| ![Beacon](images/beacon.png) | __ | ![Checkered Flag](images/flag-checkered.png) |
 
 ## 4. Checkpoints <a id="checkpoints"/>
 
-Checkpoints are _red-colored flags_. Touching them will turn them green, indicating that
-your place on the map is saved, and you will respawn there if you die.
+Checkpoints are _red-colored flags_. Touch one and it'll turn green, marking that location as your new respawn point.  
+The **respawn point** is the location where you'll restart in the stage after losing a life.
+
+&emsp; ![Checkpoint](images/checkpoint.png) ![Checkpoint (Tagged)](images/checkpoint-tagged.png)
+
+| ___\/ \!\!\!\~\~\~ ATTENTION \~\~\~\!\!\! \/___                          |
+| :------------------------------------------------------------------- |  
+| _**\<\!\>** Checkpoints don't save your game progress!<br/>**\<!\>** All checkpoint data is abandoned when you exit a stage.<br/>**\<!\>** Each time you enter a stage, you start from the beginning._ |
 
 ## 5. Basic Gameplay / Movement and Actions <a id="basic-gameplay"/>
 
@@ -110,8 +122,9 @@ Your main weapon will be the flamethrower. You can set things on fire,
 destroy trees, blow up barrels, and destroy enemies with it. Be cautious
 though, because the flamethrower can overheat.
 
-___WARNING!___ Using your flamethrower continuously without breaks can  
-case it to overheat. See [Overheating](#6-overheating) for more info.
+| ___\<\_\/\_\/\_\/\> CAUTION \<\_\/\_\/\_\/\>___                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------- |  
+| \(\/\\\) Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
 
 ## 6. Overheating <a id="overheating"/>
 
