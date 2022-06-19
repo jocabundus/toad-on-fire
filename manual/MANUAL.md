@@ -107,7 +107,9 @@ The **respawn point** is the location where you'll restart in the stage after lo
 
 &emsp; ![Checkpoint](images/checkpoint.png) ![Checkpoint (Tagged)](images/checkpoint-tagged.png)
 
-| ___\/ \!\!\!\~\~\~ ATTENTION \~\~\~\!\!\! \/___                          |
+<!--  | ___\/\_\/\_\_\/\_\_\_\/ ATTENSION! \_\_\_\/\_\_\/\_\/\/___                          | -->
+
+| ___\/\_\/\_\_\/\_\_\_\/ &emsp;Attention&emsp; \/\_\_\_\_\_\/\_\_\_\/\_\_\/\_\/___                          |
 | :------------------------------------------------------------------- |  
 | _**\<\!\>** Checkpoints don't save your game progress!<br/>**\<!\>** All checkpoint data is abandoned when you exit a stage.<br/>**\<!\>** Each time you enter a stage, you start from the beginning._ |
 
