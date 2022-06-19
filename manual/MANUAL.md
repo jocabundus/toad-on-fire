@@ -94,7 +94,7 @@ _You can configure any controller from within the game menu._
 ## 3. Objective <a id="objective"/>
 
 Your primary objective is to search for the _teleporter beacons_ and destroy them with wreckless abandon.  
-Every stage has _at least_ one beacon. They may be surrounded by white-checked flags to help you notice them.
+Every stage has _at least_ one beacon. They may be surrounded by white-checkered flags to help you notice them.
 
 | Beacon                       | __ | Checkered Flag                               |
 | ---------------------------- | -- | -------------------------------------------- |
