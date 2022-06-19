@@ -1,28 +1,28 @@
 # Toad On Fire - Game Instruction Manual
 
 ## Table of Contents
-1. [Getting Started](#1-getting-started)
-2. [Default Controls](#2-default-controls)
-3. [Objective](#3-objective)
-4. [Checkpoints](#4-checkpoints)
-5. [Basic Gameplay / Movement and Actions](#5-basic-gameplay--movement-and-actions)
-6. [Overheating](#6-overheating)
-7. [Experience Points](#7-experience-points)
-8. [Money / Loot](#8-money--loot)
-9. [Weapons and Upgrades](#9-weapons-and-upgrades)
-10. [Items and Powerups](#10-items-and-powerups)
-11. [Hostile and Dangerous Creatures](#11-hostile-and-dangerous-creatures)
-12. [Sky Crystals](#12-sky-crystals)
+1. [Getting Started](#getting-started)
+2. [Default Controls](#default-controls)
+3. [Objective](#objective)
+4. [Checkpoints](#checkpoints)
+5. [Basic Gameplay / Movement and Actions](#basic-gameplay)
+6. [Overheating](#overheating)
+7. [Experience Points](#xp-points)
+8. [Money / Loot](#loot)
+9. [Weapons and Upgrades](#weapons-and-upgrades)
+10. [Items and Powerups](#items-and-powerups)
+11. [Hostile and Dangerous Creatures](#hostiles)
+12. [Sky Crystals](#sky-crystals)
 
-## 1. Getting Started
 
- * ___After opening the game___
-   * This will be the same slot that you'll use to load your game.  
-   * Your progress will be saved automatically.
+## 1. Getting Started <a id="getting-started"/>
 
- * You start with nothing. As the game progresses, you'll acquire new items and abilities.
+ - ___After opening the game___
+ - This will be the same slot that you'll use to load your game.  
+ - You start with nothing. As the game progresses, you'll acquire new items and abilities.
+ - Your progress will be saved automatically.
 
-## 2. Default Controls
+## 2. Default Controls <a id="default-controls"/>
 
 Controls can be customized within the game menu. _(Options -> Controls -> Keyboard/Controller Setup)_  
 For reference, here are the default configurations.
@@ -89,17 +89,17 @@ _You can configure any controller from within the game menu._
    b. If you change the controls before starting or loading a game, then the setup will  
       be saved as the default for all new games going forward.
 
-## 3. Objective
+## 3. Objective <a id="objective"/>
 
 The main goal is to find and destroy the _teleporter beacons_ at the end of the stage.
 They are surrounded by white-checked flags -- to help you see them better.
 
-## 4. Checkpoints
+## 4. Checkpoints <a id="checkpoints"/>
 
 Checkpoints are _red-colored flags_. Touching them will turn them green, indicating that
 your place on the map is saved, and you will respawn there if you die.
 
-## 5. Basic Gameplay / Movement and Actions
+## 5. Basic Gameplay / Movement and Actions <a id="basic-gameplay"/>
 
 Use the arrow keys or the d-pad/analog-stick to move around. The primary
 action is **F** / **Space bar** for the keyboard and **A** for the Xbox
@@ -113,7 +113,7 @@ though, because the flamethrower can overheat.
 ___WARNING!___ Using your flamethrower continuously without breaks can  
 case it to overheat. See [Overheating](#6-overheating) for more info.
 
-## 6. Overheating
+## 6. Overheating <a id="overheating"/>
 
 There is a bar in the bottom-left corner of the screen. This is your
 **heat bar**. It tells you how hot your flamethrower is. The more you
@@ -123,7 +123,7 @@ is cooling off. If the heat bar fills up completely, you'll lose the
 ability to fire for a few seconds, until the flamethrower cools down and
 the heat bar completely drains.
 
-## 7. Experience Points
+## 7. Experience Points <a id="xp-points"/>
 
 Right above the heat bar is the **xp bar**. As you destroy enemies,
 you'll see sparkles that fly towards you. As you collect these, your xp
@@ -137,7 +137,7 @@ be rewarded with an extra life.
 Dying will cause your xp bar to reset and your flamethower to revert to
 the first level.
 
-## 8. Money / Loot
+## 8. Money / Loot <a id="loot"/>
 
 Toad On Fire uses food and gems for its currency. Gems are worth more
 than food. Move over the item to pick it up and it'll add to your total
@@ -200,7 +200,7 @@ replenish each time you play a level.
     </tbody>
 </table>    
 
-## 9. Weapons and Upgrades
+## 9. Weapons and Upgrades <a id="weapons-and-upgrades"/>
 As you play the game, you'll acquire new upgrades and abilities.
 However, some upgrades and abilities must be purchased. So collect as
 much loot as you can so you can afford it when the time comes. Upgrades
@@ -210,21 +210,23 @@ be found locked in chests that can only be opened if you have enough
 money. The amount will be displayed to you when you are close-up and
 facing the chest.
 
-## 10. Items and Powerups
+## 10. Items and Powerups <a id="items-and-powerups"/>
 
-### Heart
-### Health Pack
-### Coolant
-### Grenade
-### Armor
-### Extra Life
-### Max HP Potion
-### Rocket Power
-### Triple-Spread
-### Ring of Fire
-### Root Beer Float
+| Name            | Image                                          | Ability                                                                |
+|-----------------|------------------------------------------------|------------------------------------------------------------------------|
+| Heart           | ![Heart](images/heart.png)                     | Adds +1 HP (one whole heart) to health bar                             |
+| Health Pack     | ![Health Pack](images/medkit.png)              | Restores HP to max                                                     |
+| Coolant         | ![Coolant](images/coolant.png)                 | Automatically used if you overheatSaves you from overheating           |
+| Grenade         | ![Grenade](images/grenade.png)                 | Adds +1 Grenade to your inventory                                      |
+| Armor           | ![Armor](images/armor.png)                     | Wearable armor (protection varies based on price)                      |
+| Extra Life      | ![Extra Life](images/extra-life.png)           | Rewards +1 Extra Lives                                                 |
+| Max HP Potion   | ![HP Potion](images/potion.png)                | Increases max HP by +1                                                 |
+| Rocket Power    | ![Rocket Power](images/pow-rocket.png)         | _Time Limit_ \ Normal firepower is replaced with rockets                |
+| Triple-Spread   | ![Triple-Spread](images/pow-triad.png)         | _Time Limit_ Triples the number of flames for the flamethrower        |
+| Ring O' Fire    | ![Ring O' Fire](images/pow-fireshield.png)     | _Time Limit_ Ring of circling fireballs that deals damages to enemies |
+| Root Beer Float | ![Root Beer Float](images/root-beer-float.png) | Time Limit ~ Invincibility plus extra hop-speed                       |
 
-## 11. Hostile and Dangerous Creatures
+## 11. Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
 
 ### Grunt
 
@@ -441,4 +443,4 @@ facing the chest.
 ### Other Hazards
 Spikes / Electricity
 
-### 12. Sky Crystals
+### 12. Sky Crystals <a id="sky-crystals"/>
