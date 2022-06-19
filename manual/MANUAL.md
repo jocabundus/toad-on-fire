@@ -111,7 +111,7 @@ destroy trees, blow up barrels, and destroy enemies with it. Be cautious
 though, because the flamethrower can overheat.
 
 ___WARNING!___ Using your flamethrower continuously without breaks can  
-case it to overheat. See [Overheating](#6._overheating) for more info.
+case it to overheat. See [Overheating](#6-overheating) for more info.
 
 ## 6. Overheating
 
