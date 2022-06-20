@@ -102,12 +102,11 @@ Every stage has _at least_ one beacon. They may be surrounded by white-checkered
 
 ## 4. Checkpoints <a id="checkpoints"/>
 
-Checkpoints are _red-colored flags_. Touch one and it'll turn green, marking that location as your new respawn point. The **respawn point** is the location where you'll restart in the stage after losing a life.
+Checkpoints save your progress for the current stage. Available checkpoints are visible as _red-colored flags_. Touch one and it'll turn green, marking that location as your new respawn point. The **respawn point** is the location where you'll restart from, after losing a life.
 
-|||
-| :--------------------------------------------------- | :------------------------------- |
-| ![Checkpoint](images/checkpoint.png)                 | Red indicates usable checkpoint. |
-| ![Checkpoint (Tagged)](images/checkpoint-tagged.png) | Green indicates used checkpoint. |
+| Available _(indicated by red)_       | Used _(indicated by green)_                          |
+| :----------------------------------- | :--------------------------------------------------- |
+| ![Checkpoint](images/checkpoint.png) | ![Checkpoint (Tagged)](images/checkpoint-tagged.png) |
 
 | :warning: _Checkpoints don't save your progress!_                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- |
