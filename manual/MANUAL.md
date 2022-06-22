@@ -197,6 +197,7 @@ facing the chest.
 
 ## 12. Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
 
+<!--
 ### Grunt
 
 <table>
@@ -221,8 +222,9 @@ facing the chest.
         </tr>
     </tbody>
 </table>
+-->
 
-### Plasma Frog
+### Gunner
 
 <table>
     <tbody>
@@ -236,16 +238,10 @@ facing the chest.
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646; </td>
         </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Plasma frogs are trained in firearms and close-quarters combat.
-            </td>
-        </tr>
     </tbody>
 </table>
 
-### Blaze Frog
+### Firestarter
 
 <table>
     <tbody>
@@ -258,14 +254,6 @@ facing the chest.
         </tr>
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Firestarters dual wield a pair of flame cannons to unleash a hellish blaze.
-                They are<br>much tougher than marauders and looters, and so are likely to
-                strike back before<br>they are dispatched.
-            </td>
         </tr>
     </tbody>
 </table>
@@ -284,14 +272,6 @@ facing the chest.
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
         </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel<br>sapien ullamcorper,
-                malesuada lorem sed, faucibus nibh. Aenean<br>malesuada, turpis quis eleifend malesuada,
-                sem odio. 
-            </td>
-        </tr>
     </tbody>
 </table>
 
@@ -309,18 +289,10 @@ facing the chest.
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
         </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel<br>sapien ullamcorper,
-                malesuada lorem sed, faucibus nibh. Aenean<br>malesuada, turpis quis eleifend malesuada,
-                sem odio. 
-            </td>
-        </tr>
     </tbody>
 </table>
 
-### Leap Frog
+### Ground Hugger
 
 <table>
     <tbody>
@@ -333,14 +305,6 @@ facing the chest.
         </tr>
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel<br>sapien ullamcorper,
-                malesuada lorem sed, faucibus nibh. Aenean<br>malesuada, turpis quis eleifend malesuada,
-                sem odio. 
-            </td>
         </tr>
     </tbody>
 </table>
@@ -359,14 +323,6 @@ facing the chest.
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
         </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel<br>sapien ullamcorper,
-                malesuada lorem sed, faucibus nibh. Aenean<br>malesuada, turpis quis eleifend malesuada,
-                sem odio. 
-            </td>
-        </tr>
     </tbody>
 </table>
 
@@ -384,21 +340,13 @@ facing the chest.
         <tr>
             <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
         </tr>
-        <tr>
-            <td><strong> Comments </strong></td>
-            <td>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel<br>sapien ullamcorper,
-                malesuada lorem sed, faucibus nibh. Aenean<br>malesuada, turpis quis eleifend malesuada,
-                sem odio. 
-            </td>
-        </tr>
     </tbody>
 </table>
 
 <!--
 ### Pachyderm
 
-### Newt
+### Red Pet
 ![ ](images/mob-hellhound.png)
 ### Hover Crystal
 ![ ](images/mob-probe.png)
