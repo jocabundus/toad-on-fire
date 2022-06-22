@@ -3,18 +3,16 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-3. [Objective](#objective)
-4. [Checkpoints](#checkpoints)
-5. [Basic Gameplay / Movement and Actions](#basic-gameplay)
-6. [Special Moves](#special-moves)
-7. [Overheating](#overheating)
-8. [Experience Points](#xp-points)
-9. [Money / Loot](#loot)
-10. [Weapons and Upgrades](#weapons-and-upgrades)
-11. [Items and Powerups](#items-and-powerups)
-12. [Hostile and Dangerous Creatures](#hostiles)
-13. [Sky Crystals](#sky-crystals)
-14. [Controls](#controls)
+3. [Objective](#how-to-play)
+4. [Special Moves](#special-moves)
+5. [Overheating](#overheating)
+6. [Experience Points](#xp-points)
+7. [Money / Loot](#loot)
+8. [Weapons and Upgrades](#weapons-and-upgrades)
+9. [Items and Powerups](#items-and-powerups)
+10. [Hostile and Dangerous Creatures](#hostiles)
+11. [Sky Crystals](#sky-crystals)
+12. [Controls](#controls)
 
 
 ## 1. Introduction <a id="introduction"/>
@@ -34,44 +32,48 @@ ___To being your journey, create a new game . . .___
     - To help you remember, saved games show a summary of details (time played, percent complete, etc.)
     - Your progress will be saved automatically
 
-## 3. Objective <a id="objective"/>
+## 3. How to Play <a id="how-to-play"/>
 
-Your primary objective is to search for the _teleporter beacons_ and destroy them with wreckless abandon.  
-Every stage has _at least_ one beacon. They may be surrounded by white-checkered flags to help you notice them.
+### Objective
 
-| Beacon                       | __ | Checkered Flag                               |
-| ---------------------------- | -- | -------------------------------------------- |
-| ![Beacon](images/beacon.png) | __ | ![Checkered Flag](images/flag-checkered.png) |
-
-## 4. Checkpoints <a id="checkpoints"/>
-
-Checkpoints save your progress for the current stage. Available checkpoints are visible as _red-colored flags_. Touch one and it'll turn green, marking that location as your new respawn point. The **respawn point** is the location where you'll restart from, after losing a life.
-
-| Available _(indicated by red)_       | Used _(indicated by green)_                          |
-| :----------------------------------- | :--------------------------------------------------- |
-| ![Checkpoint](images/checkpoint.png) | ![Checkpoint (Tagged)](images/checkpoint-tagged.png) |
-
-| :warning: _Checkpoints don't save your progress!_                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| :boom: _Checkpoint data is only used for the active stage session._<br/> :boom: _Each time you enter a stage, you restart from the beginning_ |
-
-## 5. Basic Gameplay / Movement and Actions <a id="basic-gameplay"/>
-
-Use the arrow keys or the d-pad/analog-stick to move around. The primary
-action is **F** / **Space bar** for the keyboard and **A** for the Xbox
-360 controller. The primary action will allow you to talk to NPCs,
-toggle switches, and fire your flamethrower.
-
-Your main weapon is the flamethrower. With this, you can fire volleys of fireballs at your enemies, trees, and barrels &mdash; setting them ablaze!
-
-The **flamethrower** has two actions: _shoot_ and _charge_.
- - _Shoot_ &mdash; this is the most basic attack. Press the primary action and Smokey will shoot fire from his flamethrower. _(He must find one first! Keep that in mind.)_
- - _Charge &mdash; you can build up a burst-shot with this action. Press and hold the charge action, and you'll notice the heatbar rising. It will quickly reach a point where it stops rising -- this is when you can release the charge action and a quick burst of flames will shoot forward.
+  #### Beacon
+  Your primary objective is to search for the _teleporter beacons_ and destroy them with wreckless abandon. Every stage has _at least_ one beacon.<br/><br/>
+  ![Beacon](images/beacon.png)
+  
+  #### Checkered Flag
+  Beacons may be surrounded by _checkered flags_ to help you notice them.<br/><br/>
+  ![Checkered Flag](images/flag-checkered.png)
 
 
-| :warning: ___Don't let it get too hot!___                                                                                 |
-| :--------------------------------------------------------------------------------------------------------------------------------- |  
-| :boom: _Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
+### Movement / Basic Gameplay
+
+ - Use the arrow keys or the d-pad/analog-stick to move around. The primary
+   action is **F** / **Space bar** for the keyboard and **A** for the Xbox
+   360 controller. The primary action will allow you to talk to NPCs,
+   toggle switches, and fire your flamethrower.
+
+ - Your main weapon is the flamethrower. With this, you can fire volleys of fireballs at your enemies, trees, and barrels &mdash; setting them ablaze!
+
+ - The **flamethrower** has two actions: _shoot_ and _charge_.
+   - _Shoot_ &mdash; this is the most basic attack. Press the primary action and Smokey will shoot fire from his flamethrower.
+     _(He must find one first! Keep that in mind.)_
+   - _Charge &mdash; you can build up a burst-shot with this action. Press and hold the charge action, and you'll notice the heatbar rising. It will quickly reach a point where it stops rising -- this is when you can release the charge action and a quick burst of flames will shoot forward.
+
+ - | :warning: ___Don't let it get too hot!___                                                                                 |
+   | :--------------------------------------------------------------------------------------------------------------------------------- |  
+   | :boom: _Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
+
+### Checkpoints
+
+ - Checkpoints save your progress for the current stage. Available checkpoints are visible as _red-colored flags_. Touch one and it'll turn green, marking that    location as your new respawn point. The **respawn point** is the location where you'll restart from, after losing a life.
+ 
+ - | Available _(indicated by red)_       | Used _(indicated by green)_                          |
+   | :----------------------------------- | :--------------------------------------------------- |
+   | ![Checkpoint](images/checkpoint.png) | ![Checkpoint (Tagged)](images/checkpoint-tagged.png) |
+
+ - | :warning: _Checkpoints don't save your progress!_                                                                                             |
+   | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+   | :boom: _Checkpoint data is only used for the active stage session._<br/> :boom: _Each time you enter a stage, you restart from the beginning_ |
 
 ## 6. Special Moves  <a id="special-moves"/>
 
@@ -227,30 +229,23 @@ facing the chest.
 
 |                                                            |                                                               |                                                                    |
 | :--------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------: |
-| <br/>![Gunner](images/mob-marauder.png)<br/>**Gunner**<br/><br/>          | <br/>![Firestarter](images/mob-fireknight.png)<br/>**Firestarter**<br/><br/> | <br/>![Ground Hugger](images/mob-bluejacket.png)<br/>**Ground Hugger**<br/><br/>       |
+| <br/>![Gunner](images/mob-marauder.png)<br/>**Gunner**<br/><br/>          | <br/>![Firestarter](images/mob-fireknight.png)<br/>**Firestarter**<br/><br/> | <br/>![Ground Hugger](images/mob-bluejacket.png)<br/>**Ground Hugger**<br/><br/> |
 | | | |
-| <br/>![Levitator](images/mob-bishop.png)<br/>**Levitator**<br/><br/>      | <br/>![Tree Hugger](images/mob-treehugger.png)<br/>**Tree Hugger**<br/><br/> | <br/>![Pygmy](images/mob-yellowjacket.png)<br/>**Pygmy**<br/><br/>             |
+| <br/>![Levitator](images/mob-bishop.png)<br/>**Levitator**<br/><br/>      | <br/>![Tree Hugger](images/mob-treehugger.png)<br/>**Tree Hugger**<br/><br/> | <br/>![Pygmy](images/mob-yellowjacket.png)<br/>**Pygmy**<br/><br/>               |
 | | | |
-| <br/>![Sheep Bomb](images/mob-sheepbomb.png)<br/>**Sheep Bomb**<br/><br/> |                                                               |                                                                               |
+| <br/>![Sheep Bomb](images/mob-sheepbomb.png)<br/>**Sheep Bomb**<br/><br/> | <br/>![Aerial](images/mob-drone.png)<br/>**Aerial**<br/><br/>                | <br/>![Crawler](images/mob-arthropod.png)<br/>**Crawler**<br/><br/>              |
 | | | |
 
 <!--
 ### Pachyderm
-
 ### Red Pet
-![ ](images/mob-hellhound.png)
 ### Hover Crystal
-![ ](images/mob-probe.png)
-### Aerial Drone
-![ ](images/mob-drone.png)
-### Crawler
-![ ](images/mob-arthropod.png)
 ### Sentry Cannon
-![ ](images/mob-sentry.png)
 ### Mosquitos and Bees
-![ ](images/mob-fly.png)
 ### Other Hazards
-Spikes / Electricity
+ - Spikes / Electricity
+ - Bouncing flames
+ - Fire
 -->
 
 ### 13. Sky Crystals <a id="sky-crystals"/>
