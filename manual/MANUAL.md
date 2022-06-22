@@ -1,21 +1,31 @@
 # Toad On Fire - Game Instruction Manual
 
 ## Table of Contents
-1. [Getting Started](#getting-started)
-2. [Default Controls](#default-controls)
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
 3. [Objective](#objective)
 4. [Checkpoints](#checkpoints)
 5. [Basic Gameplay / Movement and Actions](#basic-gameplay)
-6. [Overheating](#overheating)
-7. [Experience Points](#xp-points)
-8. [Money / Loot](#loot)
-9. [Weapons and Upgrades](#weapons-and-upgrades)
-10. [Items and Powerups](#items-and-powerups)
-11. [Hostile and Dangerous Creatures](#hostiles)
-12. [Sky Crystals](#sky-crystals)
+6. [Special Moves](#special-moves)
+7. [Overheating](#overheating)
+8. [Experience Points](#xp-points)
+9. [Money / Loot](#loot)
+10. [Weapons and Upgrades](#weapons-and-upgrades)
+11. [Items and Powerups](#items-and-powerups)
+12. [Hostile and Dangerous Creatures](#hostiles)
+13. [Sky Crystals](#sky-crystals)
+14. [Controls](#controls)
 
 
-## 1. Getting Started <a id="getting-started"/>
+## 1. Introduction <a id="introduction"/>
+
+Toad On Fire is a top-down, retro-like action-adventure shooter. You play as Smokey, a toad armed with a flamethrower, and take the offensive against an invading force of hostile frogs, led by the almighty King Baxter, self-proclaimed sovereign of amphibians, who will stop at nothing to subjugate the inhabitants of Smokey's homestead and the surrounding lands. You'll join forces with a mysterious wizard, who'll provide assistance, as you push forward, intent on putting an end to King Baxter and his foray into the home of toads.
+
+You progress through 25+ levels of varying types, ranging from pure action to puzzle-based to boss battles. The flamethrower is your primary weapon, and can dispatch enemies with volleys of fireballs, which level-up as you kick butt. A charge-action endows you with two more modes of attack: burst-fire when released; or a burst-shot that rockets you forward as a blazing toad-missile of death! After clearing a few levels, you get a shield to block projectiles, or—with some skill—deflect them back towards whence they came, using the enemy's own firepower against them. A few levels after that, you find grenades that you can collect and throw at any target of your pleasure. You'll bask in the irony of defending your homeland, all the while burning trees to the ground, smashing through boulders, and detonating volatile incendiaries.
+
+There are also markets where you can buy worthwhile items and chat with the locals. You procure money by collecting items and gems that are found scattered throughout the game. Power-ups and secrets abound.
+
+## 2. Getting Started <a id="getting-started"/>
 
 ___To being your journey, create a new game . . .___
  1. Select ___`Start`___ from the main menu
@@ -23,73 +33,6 @@ ___To being your journey, create a new game . . .___
     - You'll use this row to load your game in the future
     - To help you remember, saved games show a summary of details (time played, percent complete, etc.)
     - Your progress will be saved automatically
-
-## 2. Default Controls <a id="default-controls"/>
-
-Controls can be customized within the game menu. _(Options -> Controls -> Keyboard/Controller Setup)_  
-For reference, here are the default configurations.
-
- * ___Keyboard___
-
-        Move...........................Arrow keys
-        Strafe.........................Left Shift
-        Drop Item......................D
-        Shoot Flamethrower.............F / SPACE
-        Charge Flamethrower............C
-        Special Attack (Cannonball)....Charge until full, then press F (or SPACE) while C is still held down
-        Use Shield.....................D
-        Throw Grenade..................G
-        Talk to NPC....................F / SPACE while close-up and facing NPC
-        Toggle Switch..................F / SPACE while close-up and facing switch
-        Access Game Menu...............ESC
-
- * ___Xbox One Controller___
-
-        Access Game Menu...............Menu
-        Move...........................Analog stick or D-pad
-        Strafe.........................Left Bumper / Shoulder
-        Shoot Flamethrower.............A
-        Charge Flamethrower............B
-        Use Shield.....................X
-        Drop Item......................X
-        Throw Grenade..................Y
-        Talk to NPC....................A &mdash; while close-up and facing NPC
-        Toggle Switch..................A &mdash; while close-up and facing switch
-        Special Attack (Cannonball)....Charge until full, then press A while B is still held down
-
- * ___Xbox 360 Controller___
-
-        Access Game Menu...............Start
-        Move...........................Analog stick or D-pad
-        Strafe.........................Left Bumper / Shoulder
-        Shoot Flamethrower.............A
-        Charge Flamethrower............B
-        Drop Item......................X
-        Use Shield.....................X
-        Throw Grenade..................Y
-        Talk to NPC....................A &mdash; while close-up and facing NPC
-        Toggle Switch..................A &mdash; while close-up and facing switch
-        Special Attack (Cannonball)....Charge until full, then press A while B is still held down
-
- * ___Other Game Controllers___
-
-_You can configure any controller from within the game menu._
-
-1. From the game menu, navigate to: ___OPTIONS -> CONTROLS -> CONTROLLER SETUP___.
-2. Set **LAYOUT** to _"Other"_.
-3. Navigate to any row and press ENTER or "A" on the game controller.  
-   a.  If there is no "A", it would be where "A" is normally, or otherwise  
-       it should be one of the buttons on the face of the controller.  
-       Use the keyboard to help if you need.
-   b.  Look for NEXT PAGE in the bottom-right of the screen to configure more actions.
-4. Press the button on the controller that you'd like to map that action to.
-5. Continue steps 3-4 until you're satisfied with your setup.
-6. Exit the controls menu and the setup will automatically save.
-   a. If you first start a new game or load an existing one, and changes to the controls will  
-      be saved with that game's profile and will load automatically next time you load  
-      that specific game.
-   b. If you change the controls before starting or loading a game, then the setup will  
-      be saved as the default for all new games going forward.
 
 ## 3. Objective <a id="objective"/>
 
@@ -119,15 +62,27 @@ action is **F** / **Space bar** for the keyboard and **A** for the Xbox
 360 controller. The primary action will allow you to talk to NPCs,
 toggle switches, and fire your flamethrower.
 
-Your main weapon will be the flamethrower. You can set things on fire,
-destroy trees, blow up barrels, and destroy enemies with it. Be cautious
-though, because the flamethrower can overheat.
+Your main weapon is the flamethrower. With this, you can fire volleys of fireballs at your enemies, trees, and barrels &mdash; setting them ablaze!
 
-| ___\<-\_\/\_\/\_\/-\> Caution! \<-\_\/\_\/\_\/-\>___                                                                                     |
-| :---------------------------------------------------------------------------------------------------------------------------------- |  
-| \(\/\\\) Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
+The **flamethrower** has two actions: _shoot_ and _charge_.
+ - _Shoot_ &mdash; this is the most basic attack. Press the primary action and Smokey will shoot fire from his flamethrower. _(He must find one first! Keep that in mind.)_
+ - _Charge &mdash; you can build up a burst-shot with this action. Press and hold the charge action, and you'll notice the heatbar rising. It will quickly reach a point where it stops rising -- this is when you can release the charge action and a quick burst of flames will shoot forward.
 
-## 6. Overheating <a id="overheating"/>
+
+| :warning: ___Don't let it get too hot!___                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------- |  
+| :boom: _Using your flamethrower continuously without breaks can cause an overheat. See [Overheating](#overheating) for more info._ |
+
+## 6. Special Moves  <a id="special-moves"/>
+
+ - Cannonball Attack
+   - Charge the flamethrower to max, then press fire while still holding down the charge action.
+ - Shield Attack
+   - While moving forward, press the shield action, and Smokey will slide to a stop, shield in-hand. Anything in the shield's way will take damage. Cannisters will bounce.
+ - Cannonball + Shield Attack
+   - Engage the cannonball attack and, while still rolling through the air, press the shield action. This will provide a more powerful shield attack.
+
+## 7. Overheating <a id="overheating"/>
 
 There is a bar in the bottom-left corner of the screen. This is your
 **heat bar**. It tells you how hot your flamethrower is. The more you
@@ -137,7 +92,7 @@ is cooling off. If the heat bar fills up completely, you'll lose the
 ability to fire for a few seconds, until the flamethrower cools down and
 the heat bar completely drains.
 
-## 7. Experience Points <a id="xp-points"/>
+## 8. Experience Points <a id="xp-points"/>
 
 Right above the heat bar is the **xp bar**. As you destroy enemies,
 you'll see sparkles that fly towards you. As you collect these, your xp
@@ -151,7 +106,7 @@ be rewarded with an extra life.
 Dying will cause your xp bar to reset and your flamethower to revert to
 the first level.
 
-## 8. Money / Loot <a id="loot"/>
+## 9. Money / Loot <a id="loot"/>
 
 Toad On Fire uses food and gems for its currency. Gems are worth more
 than food. Move over the item to pick it up and it'll add to your total
@@ -214,7 +169,7 @@ replenish each time you play a level.
     </tbody>
 </table>    
 
-## 9. Weapons and Upgrades <a id="weapons-and-upgrades"/>
+## 10. Weapons and Upgrades <a id="weapons-and-upgrades"/>
 As you play the game, you'll acquire new upgrades and abilities.
 However, some upgrades and abilities must be purchased. So collect as
 much loot as you can so you can afford it when the time comes. Upgrades
@@ -224,7 +179,7 @@ be found locked in chests that can only be opened if you have enough
 money. The amount will be displayed to you when you are close-up and
 facing the chest.
 
-## 10. Items and Powerups <a id="items-and-powerups"/>
+## 11. Items and Powerups <a id="items-and-powerups"/>
 
 | Name            | Image                                          | Ability                                                                |
 |-----------------|------------------------------------------------|------------------------------------------------------------------------|
@@ -240,7 +195,7 @@ facing the chest.
 | Ring O' Fire    | ![Ring O' Fire](images/pow-fireshield.png)     | _Time Limit_ Ring of circling fireballs that deals damages to enemies |
 | Root Beer Float | ![Root Beer Float](images/root-beer-float.png) | Time Limit ~ Invincibility plus extra hop-speed                       |
 
-## 11. Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
+## 12. Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
 
 ### Grunt
 
@@ -440,6 +395,7 @@ facing the chest.
     </tbody>
 </table>
 
+<!--
 ### Pachyderm
 
 ### Newt
@@ -456,5 +412,75 @@ facing the chest.
 ![ ](images/mob-fly.png)
 ### Other Hazards
 Spikes / Electricity
+-->
 
-### 12. Sky Crystals <a id="sky-crystals"/>
+### 13. Sky Crystals <a id="sky-crystals"/>
+
+There are four special crystal that power the shield that protects the land from teleportation. Collect all four to make it all the way to the very end.
+
+## 14. Default Controls <a id="controls"/>
+
+Controls can be customized within the game menu. _(Options -> Controls -> Keyboard/Controller Setup)_  
+For reference, here are the default configurations.
+
+ * ___Keyboard___
+
+        Move...........................Arrow keys
+        Strafe.........................Left Shift
+        Drop Item......................D
+        Shoot Flamethrower.............F / SPACE
+        Charge Flamethrower............C
+        Special Attack (Cannonball)....Charge until full, then press F (or SPACE) while C is still held down
+        Use Shield.....................D
+        Throw Grenade..................G
+        Talk to NPC....................F / SPACE while close-up and facing NPC
+        Toggle Switch..................F / SPACE while close-up and facing switch
+        Access Game Menu...............ESC
+
+ * ___Xbox One Controller___
+
+        Access Game Menu...............Menu
+        Move...........................Analog stick or D-pad
+        Strafe.........................Left Bumper / Shoulder
+        Shoot Flamethrower.............A
+        Charge Flamethrower............B
+        Use Shield.....................X
+        Drop Item......................X
+        Throw Grenade..................Y
+        Talk to NPC....................A &mdash; while close-up and facing NPC
+        Toggle Switch..................A &mdash; while close-up and facing switch
+        Special Attack (Cannonball)....Charge until full, then press A while B is still held down
+
+ * ___Xbox 360 Controller___
+
+        Access Game Menu...............Start
+        Move...........................Analog stick or D-pad
+        Strafe.........................Left Bumper / Shoulder
+        Shoot Flamethrower.............A
+        Charge Flamethrower............B
+        Drop Item......................X
+        Use Shield.....................X
+        Throw Grenade..................Y
+        Talk to NPC....................A &mdash; while close-up and facing NPC
+        Toggle Switch..................A &mdash; while close-up and facing switch
+        Special Attack (Cannonball)....Charge until full, then press A while B is still held down
+
+ * ___Other Game Controllers___
+
+_You can configure any controller from within the game menu._
+
+1. From the game menu, navigate to: ___OPTIONS -> CONTROLS -> CONTROLLER SETUP___.
+2. Set **LAYOUT** to _"Other"_.
+3. Navigate to any row and press ENTER or "A" on the game controller.  
+   a.  If there is no "A", it would be where "A" is normally, or otherwise  
+       it should be one of the buttons on the face of the controller.  
+       Use the keyboard to help if you need.
+   b.  Look for NEXT PAGE in the bottom-right of the screen to configure more actions.
+4. Press the button on the controller that you'd like to map that action to.
+5. Continue steps 3-4 until you're satisfied with your setup.
+6. Exit the controls menu and the setup will automatically save.
+   a. If you first start a new game or load an existing one, and changes to the controls will  
+      be saved with that game's profile and will load automatically next time you load  
+      that specific game.
+   b. If you change the controls before starting or loading a game, then the setup will  
+      be saved as the default for all new games going forward.
