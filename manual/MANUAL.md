@@ -224,124 +224,15 @@ facing the chest.
 </table>
 -->
 
-### Gunner
 
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-marauder.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Plasma Pistol <em>( light damage )</em> </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Firestarter
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-fireknight.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Flamethrower <em>( light damage - rapid fire )</em> </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Levitator
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-bishop.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Energy Bolt <em>( light damage )</em> </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Tree Hugger
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-treehugger.png" /> </td>
-            <td><strong> Hostile </strong></td><td> No <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Avoids danger </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Ground Hugger
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-bluejacket.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Leaps toward playrer. </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Pygmy
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-yellowjacket.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Toxic Bite <em>( light damage )</em> </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
-
-### Sheep Bomb
-
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="4"> <img src="images/mob-sheepbomb.png" /> </td>
-            <td><strong> Hostile </strong></td><td> Yes <br>
-        </tr>
-        <tr>
-            <td><strong> Actions </strong></td><td> Proximity Bomb <em>( light damage )</em> </td>
-        </tr>
-        <tr>
-            <td><strong> HP </strong></td><td> &#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646;&#9646; </td>
-        </tr>
-    </tbody>
-</table>
+|                                                            |                                                               |                                                                    |
+| :--------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------: |
+| <br/>![Gunner](images/mob-marauder.png)<br/>**Gunner**<br/><br/>          | <br/>![Firestarter](images/mob-fireknight.png)<br/>**Firestarter**<br/><br/> | <br/>![Ground Hugger](images/mob-bluejacket.png)<br/>**Ground Hugger**<br/><br/>       |
+| | | |
+| <br/>![Levitator](images/mob-bishop.png)<br/>**Levitator**<br/><br/>      | <br/>![Tree Hugger](images/mob-treehugger.png)<br/>**Tree Hugger**<br/><br/> | <br/>![Pygmy](images/mob-yellowjacket.png)<br/>**Pygmy**<br/><br/>             |
+| | | |
+| <br/>![Sheep Bomb](images/mob-sheepbomb.png)<br/>**Sheep Bomb**<br/><br/> |                                                               |                                                                               |
+| | | |
 
 <!--
 ### Pachyderm
