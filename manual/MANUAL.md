@@ -36,20 +36,11 @@ You'll join forces with a mysterious wizard, who'll provide assistance,
 as you push forward, intent on putting an end to King Baxter and his
 foray into the home of toads.
 
-You progress through 25+ levels of varying types, ranging from pure
-action to puzzle-based to boss battles. The flamethrower is your primary
-weapon, and can dispatch enemies with volleys of fireballs, which
-level-up as you kick butt. A charge-action endows you with two more
-modes of attack: burst-fire when released; or a burst-shot that rockets
-you forward as a blazing toad-missile of death! After clearing a few
-levels, you get a shield to block projectiles, or&mdash;with some
-skill&mdash;deflect them back towards whence they came, using the
-enemy's own firepower against them.
-
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Getting Started <a id="getting-started"/>
@@ -66,7 +57,7 @@ enemy's own firepower against them.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: How to Play <a id="how-to-play"/>
@@ -79,14 +70,17 @@ In each stage, search for the teleporter ***beacons*** and destroy them. Every s
 | :--------------------------: | :------------------------------------------: |
 | ![Beacon](images/beacon.png) | ![Checkered Flag](images/flag-checkered.png) |
 
-\* _Sale_ and _Palace_ stages don't have beacons. You run off the right-side of the screen (or the bottom-side in some cases) to exit those stages.
+_\* Note: Sale and Palace stages don't have beacons._
 
 ### Movement
 
-Use the arrow keys or the d-pad/analog-stick to move around. The primary
-action is **F** / **Space bar** for the keyboard and **A** for the Xbox
-360 controller. The primary action will allow you to talk to NPCs,
-toggle switches, and fire your flamethrower.
+Use the arrow keys or the d-pad/analog-stick to move around.
+
+To pick up an item (such as food, gems, powerups etc.), just hop over it. If you are full on health, hearts and med-packs will stay on the ground.
+
+Use your primary action ([see controls](#controls)). This action allow's you to fire your weapon, toggle swtiches, purchase items, and talk to NPCs,
+
+<div style="page-break-after:always"></div>
 
 ### Shooting
 
@@ -119,10 +113,14 @@ until the flamethrower cools down and the heat bar completely drains.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Special Moves  <a id="special-moves"/>
+
+Practice these combos to unleash some serious power.
+These "special moves" aren't required to complete the game, so don't sweat it!
 
 | Name                         | How-to    |
 | ---------------------------- | --------- |
@@ -133,7 +131,7 @@ until the flamethrower cools down and the heat bar completely drains.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Checkpoints <a id="checkpoints"/>
@@ -152,7 +150,7 @@ Touch one and it'll turn green, marking that    location as your new respawn poi
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Experience Points <a id="xp-points"/>
@@ -172,7 +170,7 @@ the first level.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Weapons and Upgrades <a id="weapons-and-upgrades"/>
@@ -188,19 +186,15 @@ facing the chest.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Money / Loot <a id="loot"/>
 
 Toad On Fire uses food and gems for its currency. Gems are worth more
 than food. Move over the item to pick it up and it'll add to your total
-money/loot amount (shown in the bottom-right corner of the screen). You
-need to complete the level to keep the loot that you found. You can play
-the same level again to collect more loot. However, you can only take
-the gems once. Any gems you complete the level with will no longer be
-available when replaying the level. Food items, on the contrary,
-replenish each time you play a level.
+money/loot amount (shown in the bottom-right corner of the screen).
 
 <table>
     <thead>
@@ -256,12 +250,13 @@ replenish each time you play a level.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Useful Items <a id="useful-items"/>
 
-Find and pick up these items along the way &mdash; they'll help you greatly.
+These items will help you along the way. Keep an eye out for them!
 
 | Name            | Icon                                           | Ability                                                                |
 |-----------------|------------------------------------------------|------------------------------------------------------------------------|
@@ -276,24 +271,25 @@ Find and pick up these items along the way &mdash; they'll help you greatly.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Powerups <a id="powerups"/>
 
 Grab these powerups for new abilities. These only last a limited time.
 
-| Name            | Icon                                           | Ability                                                  |
-|-----------------|------------------------------------------------|----------------------------------------------------------|
-| :boom: Rocket Power    | ![Rocket Power](images/pow-rocket.png)         | Normal firepower is replaced with rockets                |
-| :three: Triple-Shot     | ![Triple-Spread](images/pow-triad.png)         | Triples the number of flames for the flamethrower        |
-| :fire: Ring O' Fire    | ![Ring O' Fire](images/pow-fireshield.png)     | Ring of circling fireballs that deals damages to enemies |
-| :beer: Root Beer Float | ![Root Beer Float](images/root-beer-float.png) | Invincibility plus extra hop-speed                       |
+| Name                         | Icon                                           | Ability                                                  |
+|------------------------------|------------------------------------------------|----------------------------------------------------------|
+| :boom: Rocket Power          | ![Rocket Power](images/pow-rocket.png)         | Normal firepower is replaced with rockets                |
+| :three: Triple-Shot          | ![Triple-Spread](images/pow-triad.png)         | Triples the number of flames for the flamethrower        |
+| *&emsp;*&emsp;* Ring O' Fire | ![Ring O' Fire](images/pow-fireshield.png)     | Ring of circling fireballs that deals damages to enemies |
+| :beer: Root Beer Float       | ![Root Beer Float](images/root-beer-float.png) | Invincibility plus extra hop-speed                       |
 
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
@@ -324,7 +320,8 @@ Watch out for these folk, they will try to hurt you!
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Sky Crystals <a id="sky-crystals"/>
@@ -334,7 +331,8 @@ There are four special crystal that power the shield that protects the land from
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Default Controls <a id="controls"/>
@@ -370,6 +368,8 @@ For reference, here are the default configurations.
         Toggle Switch..................A &mdash; while close-up and facing switch
         Special Attack (Cannonball)....Charge until full, then press A while B is still held down
 
+<div style="page-break-after:always"></div>
+
  * ___Xbox 360 Controller___
 
         Access Game Menu...............Start
@@ -387,7 +387,8 @@ For reference, here are the default configurations.
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Custom Controller Setup <a id="controller-setup"/>
@@ -417,7 +418,8 @@ _Additional Notes_
      as the default for all new games going forward.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div style="text-align:right">:checkered_flag:</div><hr/>
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 # Thanks for playing!<br/><br/>:bomb: :penguin: :coffee: :chocolate_bar:
