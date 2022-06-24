@@ -258,15 +258,15 @@ money/loot amount (shown in the bottom-right corner of the screen).
 
 These items will help you along the way. Keep an eye out for them!
 
-| Name            | Icon                                           | Ability                                                                |
-|-----------------|------------------------------------------------|------------------------------------------------------------------------|
-| Heart           | ![Heart](images/heart.png)                     | Adds +1 HP (one whole heart) to health bar                             |
-| Health Pack     | ![Health Pack](images/medkit.png)              | Restores HP to max                                                     |
-| Coolant         | ![Coolant](images/coolant.png)                 | Automatically used if you overheatSaves you from overheating           |
-| Grenade         | ![Grenade](images/grenade.png)                 | Adds +1 Grenade to your inventory                                      |
-| Armor           | ![Armor](images/armor.png)                     | Wearable armor (protection varies based on price)                      |
-| Extra Life      | ![Extra Life](images/extra-life.png)           | Rewards +1 Extra Lives                                                 |
-| Max HP Potion   | ![HP Potion](images/potion.png)                | Increases max HP by +1                                                 |
+| Name            | Icon                                   | Ability                                                                |
+|-----------------|----------------------------------------|------------------------------------------------------------------------|
+| Heart           | ![Heart](images/item-heart.png)        | Adds +1 HP (one whole heart) to health bar                             |
+| Health Pack     | ![Health Pack](images/item-medkit.png) | Restores HP to max                                                     |
+| Coolant         | ![Coolant](images/item-coolant.png)    | Automatically used if you overheatSaves you from overheating           |
+| Grenade         | ![Grenade](images/item-grenade.png)    | Adds +1 Grenade to your inventory                                      |
+| Armor           | ![Armor](images/item-armor.png)        | Wearable armor (protection varies based on price)                      |
+| Extra Life      | ![Extra Life](images/item-1up.png)     | Rewards +1 Extra Lives                                                 |
+| Max HP Potion   | ![HP Potion](images/item-potion.png)   | Increases max HP by +1                                                 |
 
 
 
