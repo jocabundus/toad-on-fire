@@ -258,15 +258,15 @@ money/loot amount (shown in the bottom-right corner of the screen).
 
 These items will help you along the way. Keep an eye out for them!
 
-| Name            | Icon                                   | Ability                                                                |
-|-----------------|----------------------------------------|------------------------------------------------------------------------|
-| Heart           | ![Heart](images/item-heart.png)        | Adds +1 HP (one whole heart) to health bar                             |
-| Health Pack     | ![Health Pack](images/item-medkit.png) | Restores HP to max                                                     |
-| Coolant         | ![Coolant](images/item-coolant.png)    | Automatically used if you overheatSaves you from overheating           |
-| Grenade         | ![Grenade](images/item-grenade.png)    | Adds +1 Grenade to your inventory                                      |
-| Armor           | ![Armor](images/item-armor.png)        | Wearable armor (protection varies based on price)                      |
-| Extra Life      | ![Extra Life](images/item-1up.png)     | Rewards +1 Extra Lives                                                 |
-| Max HP Potion   | ![HP Potion](images/item-potion.png)   | Increases max HP by +1                                                 |
+| Icon                                   | Name            | Ability                                                      |
+|----------------------------------------|:---------------:|--------------------------------------------------------------|
+| ![Heart](images/item-heart.png)        | Heart           | Adds +1 HP (one whole heart) to health bar                   |
+| ![Health Pack](images/item-medkit.png) | Health Pack     | Restores HP to max                                           |
+| ![Coolant](images/item-coolant.png)    | Coolant         | Automatically used if you overheatSaves you from overheating |
+| ![Grenade](images/item-grenade.png)    | Grenade         | Adds +1 Grenade to your inventory                            |
+| ![Armor](images/item-armor.png)        | Armor           | Wearable armor (protection varies based on price)            |
+| ![Extra Life](images/item-1up.png)     | Extra Life      | Rewards +1 Extra Lives                                       |
+| ![HP Potion](images/item-potion.png)   | Max HP Potion   | Increases max HP by +1                                       |
 
 
 
@@ -278,12 +278,12 @@ These items will help you along the way. Keep an eye out for them!
 
 Grab these powerups for new abilities. These only last a limited time.
 
-| Name                         | Icon                                           | Ability                                                  |
-|------------------------------|------------------------------------------------|----------------------------------------------------------|
-| :boom: Rocket Power          | ![Rocket Power](images/pow-rocket.png)         | Normal firepower is replaced with rockets                |
-| :three: Triple-Shot          | ![Triple-Spread](images/pow-triad.png)         | Triples the number of flames for the flamethrower        |
-| *&emsp;*&emsp;* Ring O' Fire | ![Ring O' Fire](images/pow-fireshield.png)     | Ring of circling fireballs that deals damages to enemies |
-| :beer: Root Beer Float       | ![Root Beer Float](images/root-beer-float.png) | Invincibility plus extra hop-speed                       |
+| Icon                                           | Name            | Ability                                                  |
+|------------------------|-----------------------------------------|----------------------------------------------------------|
+| ![Rocket Power](images/pow-rocket.png)         | Rocket Power    | Normal firepower is replaced with rockets                |
+| ![Triple-Spread](images/pow-triad.png)         | Triple Shot     | Triples the number of flames for the flamethrower        |
+| ![Ring O' Fire](images/pow-fireshield.png)     | Ring O' Fire    | Ring of circling fireballs that deals damages to enemies |
+| ![Root Beer Float](images/root-beer-float.png) | Root Beer Float | Invincibility plus extra hop-speed                       |
 
 
 
@@ -296,21 +296,13 @@ Grab these powerups for new abilities. These only last a limited time.
 
 Watch out for these folk, they will try to hurt you!
 
-|                                                            |                                                               |                                                                    |
-| :--------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------: |
-| <br/>![Gunner](images/mob-marauder.png)<br/>**Gunner**<br/><br/>          | <br/>![Firestarter](images/mob-fireknight.png)<br/>**Firestarter**<br/><br/> | <br/>![Ground Hugger](images/mob-bluejacket.png)<br/>**Ground Hugger**<br/><br/> |
-| | | |
-| <br/>![Levitator](images/mob-bishop.png)<br/>**Levitator**<br/><br/>      | <br/>![Tree Hugger](images/mob-treehugger.png)<br/>**Tree Hugger**<br/><br/> | <br/>![Pygmy](images/mob-yellowjacket.png)<br/>**Pygmy**<br/><br/>               |
-| | | |
-| <br/>![Sheep Bomb](images/mob-sheepbomb.png)<br/>**Sheep Bomb**<br/><br/> | <br/>![Aerial](images/mob-drone.png)<br/>**Aerial**<br/><br/>                | <br/>![Crawler](images/mob-arthropod.png)<br/>**Crawler**<br/><br/>              |
-| | | |
+|                                                                              |                                                                               |                                                                                    |                                                                         |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| <br/>![Gunner](images/mob-gunner.png)<br/>**Gunner**<br/><br/>               | <br/>![Firestarter](images/mob-firestarter.png)<br/>**Firestarter**<br/><br/> | <br/>![Ground Hugger](images/mob-groundhugger.png)<br/>**Ground Hugger**<br/><br/> | <br/>![Crawler](images/mob-crawler.png)<br/>**Crawler**<br/><br/>       |
+| <br/>![Pygmy](images/mob-pygmy.png)<br/>**Pygmy**<br/><br/>                  | <br/>![Tree Hugger](images/mob-treehugger.png)<br/>**Tree Hugger**<br/><br/>  | <br/>![Levitator](images/mob-levitator.png)<br/>**Levitator**<br/><br/>            | <br/>![Aerial](images/mob-aerial.png)<br/>**Aerial**<br/><br/>          |
+| <br/>![Sheep Bomb](images/mob-sheepbomb.png)<br/>**Sheep Bomb**<br/><br/>    | <br/>![Sentry Cannon](images/mob-newt.png)<br/>**Red Pet**<br/><br/>          | <br/>![Stone Gudardian](images/mob-guardian.png)<br/>**Stone Guardian**<br/><br/>  | <br/>![Pachydern](images/mob-pachyderm.png)<br/>**Pachyderm**<br/><br/> |
 
 <!--
-### Pachyderm
-### Red Pet
-### Hover Crystal
-### Sentry Cannon
-### Mosquitos and Bees
 ### Other Hazards
  - Spikes / Electricity
  - Bouncing flames
@@ -326,14 +318,16 @@ Watch out for these folk, they will try to hurt you!
 
 ## :cyclone: Sky Crystals <a id="sky-crystals"/>
 
-There are four special crystal that power the shield that protects the land from teleportation. Collect all four to make it all the way to the very end.
-
-
+| 4 Similarly Colored Crystals              | They are found in the sky levels (World 5) |
+| :---------------------------------------: | ------------------------------------------ |
+| ![Sky Crystals](images/sky-crystals.png)  | - There are four magical crystals that power a giant shield over the land.<br/><br/>- It prevents teleportation from space, and this was keeping the frogs away.<br/><br/>- But the crystals have become unstable and inbalanced!<br/><br/>- You don't need to get them right-away, but you will need all 4 to access the very-end levels. |
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
 <div style="page-break-before:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+
 
 ## :cyclone: Default Controls <a id="controls"/>
 
