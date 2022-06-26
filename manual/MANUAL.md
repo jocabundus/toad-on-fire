@@ -9,10 +9,10 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 \+ [Introduction](#introduction)  
 \+ [Getting Started](#getting-started)  
 \+ [How to Play](#how-to-play)  
-\+ [Special Moves](#special-moves)  
 \+ [Checkpoints](#checkpoints)  
 \+ [Experience Points](#xp-points)  
 \+ [Weapons and Upgrades](#weapons-and-upgrades)  
+\+ [Special Moves](#special-moves)  
 \+ [Money / Loot](#loot)  
 \+ [Useful Items](#useful-items)  
 \+ [Powerups](#powerups)  
@@ -114,38 +114,21 @@ until the flamethrower cools down and the heat bar completely drains.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Special Moves  <a id="special-moves"/>
-
-Practice these combos to unleash some serious power.
-These "special moves" aren't required to complete the game, so don't sweat it!
-
-| Name                         | How-to    |
-| ---------------------------- | --------- |
-| *Cannonball*                 | Charge the flamethrower to max, then press fire while still holding down the charge action. |
-| *Shield Attack*              | While moving forward, press the shield action, and Smokey will slide to a stop, shield in-hand. Anything in the shield's way will take damage. Cannisters will bounce. |
-| *Cannonball + Shield Attack* | Begin a cannonball and &mdash; while still rolling through the air &mdash; press the shield action. |
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Checkpoints <a id="checkpoints"/>
 
 Checkpoints save your progress for the current stage. Available checkpoints are visible as _red-colored flags_.
-Touch one and it'll turn green, marking that    location as your new respawn point. The **respawn point** is the location where you'll restart from, after losing a life.
+Touch one and it'll turn green, marking that location as your new respawn point. The **respawn point** is the location where you'll restart from, after losing a life.
 
 | Available                            | Used                                                 |
 | :----------------------------------: | :--------------------------------------------------: |
 | ![Checkpoint](images/checkpoint.png) | ![Checkpoint (Tagged)](images/checkpoint-tagged.png) |
 
-| :construction: *Caution!* |
-| :------------------------ |
-| :small_orange_diamond: Checkpoints don't save your progress!<br /> :small_orange_diamond: Checkpoint data is only used for the active stage session.<br/> :small_orange_diamond: Each time you enter a stage, you restart from the beginning. |
+| :construction: *Checkpoints don't save your progress!* |
+| :----------------------------------------------------- |
+| :small_orange_diamond: Checkpoint data isn't stored in your save file.<br /> :small_orange_diamond: Each time you enter a stage, you start/restart from the beginning. |
 
 
 
@@ -171,9 +154,11 @@ the first level.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Weapons and Upgrades <a id="weapons-and-upgrades"/>
+
 As you play the game, you'll acquire new upgrades and abilities.
 However, some upgrades and abilities must be purchased. So collect as
 much loot as you can so you can afford it when the time comes. Upgrades
@@ -187,7 +172,24 @@ facing the chest.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Special Moves  <a id="special-moves"/>
+
+Practice these combos to unleash some serious power.
+
+_These "special moves" aren't required to complete the game, so don't sweat it!_
+
+| Name                         | How-to    |
+| ---------------------------- | --------- |
+| *Cannonball*                 | Charge the flamethrower to max, then press fire while still holding down the charge action. |
+| *Shield Attack*              | While moving forward, press the shield action, and Smokey will slide to a stop, shield in-hand. Anything in the shield's way will take damage. Cannisters will bounce. |
+| *Cannonball + Shield Attack* | Begin a cannonball and &mdash; while still rolling through the air &mdash; press the shield action. |
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Money / Loot <a id="loot"/>
@@ -251,7 +253,7 @@ money/loot amount (shown in the bottom-right corner of the screen).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Useful Items <a id="useful-items"/>
@@ -272,6 +274,7 @@ These items will help you along the way. Keep an eye out for them!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Powerups <a id="powerups"/>
@@ -289,7 +292,7 @@ Grab these powerups for new abilities. These only last a limited time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Hostiles, Dangerous Creatures, and Hazards <a id="hostiles"/>
@@ -324,7 +327,7 @@ Watch out for these folk, they will try to hurt you!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
@@ -382,7 +385,7 @@ For reference, here are the default configurations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-before:always"></div>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Custom Controller Setup <a id="controller-setup"/>
