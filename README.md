@@ -7,3 +7,5 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
  * [README / Instruction Manual](manual/MANUAL.md)
  
  * [Default Controls / Keybindings](manual/KEYBINDINGS.md)
+
+ * [License](LICENSE)
