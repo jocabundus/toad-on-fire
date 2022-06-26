@@ -8,4 +8,4 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
  
  * [Default Controls / Keybindings](manual/KEYBINDINGS.md)
 
- * [License](LICENSE)
+ * [License for using assets from this repo](LICENSE)
