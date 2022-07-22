@@ -2,7 +2,9 @@
 
 _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
-### _Contents_
+------------------------------------------------------------------------
+
+### Contents
  1. [Customizing Controls](#customizing-controls)
  2. [Default Setups](#default-setups)
     - [Keyboard](#keyboard)  
@@ -11,6 +13,8 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
     - [Other Game Controllers / Custom Setup](#other-game-controllers)
  3. [Misc](#misc)
     - [Special Moves](#special-moves)
+
+------------------------------------------------------------------------
 
 ## 1. Customizing Controls <a id="customizing-controls"/>
 

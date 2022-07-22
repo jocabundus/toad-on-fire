@@ -4,7 +4,7 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
 ------------------------------------------------------------------------
 
-## Table of Contents
+## Contents
 
 \+ [Introduction](#introduction)  
 \+ [Getting Started](#getting-started)  
@@ -25,18 +25,34 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
 ## :cyclone: Introduction <a id="introduction"/>
 
-Toad On Fire is a top-down, retro-like action-adventure shooter.
-You play as Smokey, a toad armed with a flamethrower, and take the
-offensive against an invading force of hostile frogs, led by the
-almighty King Baxter, self-proclaimed sovereign of amphibians, who will
-stop at nothing to subjugate the inhabitants of Smokey's homestead and
-the surrounding lands.
+#### He's unconventional! He's daring! He's unceremonious!
 
-You'll join forces with a mysterious wizard, who'll provide assistance,
-as you push forward, intent on putting an end to King Baxter and his
-foray into the home of toads.
+He's ***Smokey***, the bodacious toad, and he's ready for battle! He'll
+defend the local farm from its number one enemy: encroaching weeds. His
+weapon of choice: a flamethrower.
 
+But, no sooner than strapping on his equipment, does he find himself
+under attack by a new threat: the frogs!
 
+The frogs come from outer space, well, sort of. You see, the fallout
+from a long-ago war between toads and frogs had left the two breeds
+separated ... by about 300 vertical miles. The toads won the war and
+claimed the surface, and the frogs fled to the many artificial
+satellites in orbit.
+
+Since after then war, toads thrived on the surface of the earth.
+Meanwhile, frogs struggle to survive 300 miles up, orbiting the globe
+from outer space. They've been up there a long time, and they've had
+enough! They're going to storm the planet's surface and take back their land!
+
+Seemingly valiant, indeed, the frogs could very well be the heroes of
+this story, if it wasn't for their leader, *King Baxter*, a rancorous frog
+who also wants to wipe all toads off the face of the planet and out of
+existence.
+
+Prepare to encounter fast-paced action, hostile forces, eccentric characters,
+and boss battles. Discover secrets and powerups along the way. Collect
+bright food and sparkling gems as loot to purchase armor and upgrades.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
@@ -420,3 +436,9 @@ _Additional Notes_
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 # Thanks for playing!<br/><br/>:bomb: :penguin: :coffee: :chocolate_bar:
+
+clans, tribes, nationalities
+breeds, broods, bloods
+brotherhoods, gangs, fellowships, guilds
+club, house, branch
+camps, cohorts, companies
