@@ -8,11 +8,11 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
 \+ [Introduction](#introduction)  
 \+ [Getting Started](#getting-started)  
-\+ [How to Play](#how-to-play)  
+\+ [How to Play](#how-to-play)      
+   &emsp; \- [Special Moves](#special-moves)  
 \+ [Checkpoints](#checkpoints)  
 \+ [Experience Points](#xp-points)  
 \+ [Weapons and Upgrades](#weapons-and-upgrades)  
-\+ [Special Moves](#special-moves)  
 \+ [Money / Loot](#loot)  
 \+ [Useful Items](#useful-items)  
 \+ [Powerups](#powerups)  
@@ -25,38 +25,57 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
 ## :cyclone: Introduction <a id="introduction"/>
 
-#### He's unconventional! He's daring! He's unceremonious!
+### A Dark History Between Frogs and Toads
 
-He's ***Smokey***, the bodacious toad, and he's ready for battle! He'll
-defend the local farm from its number one enemy: encroaching weeds. His
-weapon of choice: a flamethrower.
+A long time ago, toads were enslaved by frogs. They were forced into
+transports that carried them 300 miles up to outerspace. There, droves
+of frog-controlled spacecraft received them into captivity. These
+spacecraft orbitted the globa as a scattered city of battleships,
+abandoned vessels, and freight.
+
+Many of these crafts could provide long-term life support and grow food,
+and so were chosen for internment. Other crafts were chosen to host
+battle arenas for entertainment and were refitted for this purpose.
+Frogs cheered on as untold numbers of toads battled to the death in
+these space arenas.
+
+After some time -- many years -- the toads seized an opportunity to get
+the upper hand. A rebellion broke out and the toads prevailed. An
+armistice was reached, the agreement being that toads would return
+their kind to the surface, and frogs would settle into orbit as their
+new home. No doubt, the frogs weren't happy about this, but they
+managed and built a life for their own out there.
+
+This is how the state of affairs remained for a long time....
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div style="page-break-after:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+### Present Day
+
+Enter ***Smokey***, the bodacious toad. He lives on a farm, and he's
+ready for battle! He'll defend the farm from its number one enemy:
+encroaching weeds!
 
 But, no sooner than strapping on his equipment, does he find himself
-under attack by a new threat: the frogs!
+caught off guard by a new threat: frogs! A surprise frog invasion is
+underway! They're teleporting in left and right! Fortunately, Smokey's
+flame-throwing weed burner proves to be an effective weapon against the
+enemy, and he springs into action to save his world (and kind)! 
 
-The frogs come from outer space, well, sort of. You see, the fallout
-from a long-ago war between toads and frogs had left the two breeds
-separated ... by about 300 vertical miles. The toads won the war and
-claimed the surface, and the frogs fled to the many artificial
-satellites in orbit.
-
-Since after then war, toads thrived on the surface of the earth.
-Meanwhile, frogs struggle to survive 300 miles up, orbiting the globe
-from outer space. They've been up there a long time, and they've had
-enough! They're going to storm the planet's surface and take back their land!
+### Baxter's Wrath
 
 Seemingly valiant, indeed, the frogs could very well be the heroes of
-this story, if it wasn't for their leader, *King Baxter*, a rancorous frog
-who also wants to wipe all toads off the face of the planet and out of
-existence.
+this story -- taking back their land after being forced to live away
+from the green earth for so long -- if it wasn't for their leader, King
+Baxter, a rancorous frog who wants to wipe all toads off the face
+of the planet and out of existence.
 
-Prepare to encounter fast-paced action, hostile forces, eccentric characters,
-and boss battles. Discover secrets and powerups along the way. Collect
-bright food and sparkling gems as loot to purchase armor and upgrades.
+It's up to Smokey to stop Baxter's invasion and ultimate endgame.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Getting Started <a id="getting-started"/>
@@ -70,10 +89,9 @@ bright food and sparkling gems as loot to purchase armor and upgrades.
     - _To help you remember, saved games show a summary of details (time played, percent complete, etc.)._
     - _Your progress will be saved automatically._ :floppy_disk:
 
-
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: How to Play <a id="how-to-play"/>
@@ -91,12 +109,9 @@ _\* Note: Sale and Palace stages don't have beacons._
 ### Movement
 
 Use the arrow keys or the d-pad/analog-stick to move around.
-
 To pick up an item (such as food, gems, powerups etc.), just hop over it. If you are full on health, hearts and med-packs will stay on the ground.
 
 Use your primary action ([see controls](#controls)). This action allow's you to fire your weapon, toggle swtiches, purchase items, and talk to NPCs,
-
-<div style="page-break-after:always"></div>
 
 ### Shooting
 
@@ -107,6 +122,22 @@ The *flamethrower* has two actions: _shoot_ and _charge_.
 _(He must find one first! Keep that in mind.)_
      
 * _Charge_ &mdash; you can build up a burst-shot with this action. Press and hold the charge action, and you'll notice the heatbar rising. It will quickly reach a point where it stops rising -- this is when you can release the charge action and a quick burst of flames will shoot forward.
+
+### Special Moves <a id="special-moves"/>
+
+Practice these combos to unleash some serious power!
+
+| Name                         | How-to    |
+| ---------------------------- | --------- |
+| *Cannonball*                 | Charge the flamethrower to max, then press fire while still holding down the charge action. |
+| *Shield Attack*              | While moving forward, press the shield action, and Smokey will slide to a stop, shield in-hand. Anything in the shield's way will take damage. Cannisters will bounce. |
+| *Cannonball + Shield Attack* | Begin a cannonball and &mdash; while still rolling through the air &mdash; press the shield action. |
+
+_\* Note: you'll need to acquire the shield for some of these moves. The shield is found in World 2._
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div style="page-break-after:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### Heat Bar
 
@@ -130,7 +161,6 @@ until the flamethrower cools down and the heat bar completely drains.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Checkpoints <a id="checkpoints"/>
@@ -150,69 +180,14 @@ Touch one and it'll turn green, marking that location as your new respawn point.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Experience Points <a id="xp-points"/>
-
-Right above the heat bar is the **xp bar**. As you destroy enemies,
-you'll see sparkles that fly towards you. As you collect these, your xp
-bar will fill up. When it fills up completely, your flamethrower will
-automatically level-up to the next level and become more powerful. Level
-three is the highest level you can attain from the start. Later in the
-game, you can purchase upgrades that'll let you access higher levels.
-Once you reach the highest level, if your xp bar fills up again, you'll
-be rewarded with an extra life.
-
-Dying will cause your xp bar to reset and your flamethower to revert to
-the first level.
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Weapons and Upgrades <a id="weapons-and-upgrades"/>
-
-As you play the game, you'll acquire new upgrades and abilities.
-However, some upgrades and abilities must be purchased. So collect as
-much loot as you can so you can afford it when the time comes. Upgrades
-are found in shops. Shops are levels that have the dollar-sign icon on
-the world map. You can talk to NPCs to purchase items. Other items can
-be found locked in chests that can only be opened if you have enough
-money. The amount will be displayed to you when you are close-up and
-facing the chest.
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Special Moves  <a id="special-moves"/>
-
-Practice these combos to unleash some serious power.
-
-_These "special moves" aren't required to complete the game, so don't sweat it!_
-
-| Name                         | How-to    |
-| ---------------------------- | --------- |
-| *Cannonball*                 | Charge the flamethrower to max, then press fire while still holding down the charge action. |
-| *Shield Attack*              | While moving forward, press the shield action, and Smokey will slide to a stop, shield in-hand. Anything in the shield's way will take damage. Cannisters will bounce. |
-| *Cannonball + Shield Attack* | Begin a cannonball and &mdash; while still rolling through the air &mdash; press the shield action. |
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
 <div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Money / Loot <a id="loot"/>
 
-Toad On Fire uses food and gems for its currency. Gems are worth more
-than food. Move over the item to pick it up and it'll add to your total
-money/loot amount (shown in the bottom-right corner of the screen).
+Food and gems _(aka "loot")_ are valuable items worth varying amounts.
+Collect these to build up your spending money. Gems are worth more than food.
+Move over the item to pick it up and it'll add to your total money/loot amount _(shown in the bottom-right corner of the screen)_.
 
 <table>
     <thead>
@@ -269,6 +244,25 @@ money/loot amount (shown in the bottom-right corner of the screen).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Weapons and Upgrades <a id="weapons-and-upgrades"/>
+
+On the world map are levels that have a "SALE" icon over them. These
+are the shop levels, where you can buy cool things. Items for sale are
+stored inside the money chests (chest boxes with a dollar sign). Walk up
+in front of a money chest and it'll display what's inside and the amount
+you can buy it for; use your primary action to confirm the purchase, and
+the chest will pop open and give you the item.
+
+Sometimes you can buy items from the merchants themselves. Walk up to
+one in the same way and use primary action to initiate the dialog. They
+might have something to offer!
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
@@ -303,6 +297,26 @@ Grab these powerups for new abilities. These only last a limited time.
 | ![Triple-Spread](images/pow-triad.png)         | Triple Shot     | Triples the number of flames for the flamethrower        |
 | ![Ring O' Fire](images/pow-fireshield.png)     | Ring O' Fire    | Ring of circling fireballs that deals damages to enemies |
 | ![Root Beer Float](images/root-beer-float.png) | Root Beer Float | Invincibility plus extra hop-speed                       |
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Experience Points <a id="xp-points"/>
+
+Right above the heat bar is the **xp bar**. As you destroy enemies,
+you'll see sparkles that fly towards you. As you collect these, your xp
+bar will fill up. When it fills up completely, your flamethrower will
+automatically level-up to the next level and become more powerful. Level
+three is the highest level you can attain from the start. Later in the
+game, you can purchase upgrades that'll let you access higher levels.
+Once you reach the highest level, if your xp bar fills up again, you'll
+be rewarded with an extra life.
+
+Dying will cause your xp bar to reset and your flamethower to revert to
+the first level.
 
 
 
