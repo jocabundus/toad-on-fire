@@ -8,15 +8,18 @@ _:copyright: Copyright, 2022. Delta Code. All rights reserved_.
 
 \+ [Introduction](#introduction)  
 \+ [Getting Started](#getting-started)  
-\+ [How to Play](#how-to-play)      
+\+ [How to Play](#how-to-play)  
+   &emsp; \- [Objective](#objective)  
+   &emsp; \- [Movement](#movement)  
+   &emsp; \- [Shooting](#shooting)  
    &emsp; \- [Special Moves](#special-moves)  
 \+ [Checkpoints](#checkpoints)  
-\+ [Experience Points](#xp-points)  
-\+ [Weapons and Upgrades](#weapons-and-upgrades)  
-\+ [Money / Loot](#loot)  
-\+ [Useful Items](#useful-items)  
+\+ [Pickups and Helpful Items](#pickup-items)  
 \+ [Powerups](#powerups)  
+\+ [Getting Money](#loot)  
+\+ [Spending Money](#spending-money)  
 \+ [Hostiles, Dangerous Creatures, and Hazards](#hostiles)  
+\+ [Experience Points and Leveling Up](#xp-points)  
 \+ [Sky Crystals](#sky-crystals)  
 \+ [Default Controls](#controls)  
 \+ [Controller Setup](#controller-setup)
@@ -96,7 +99,7 @@ It's up to Smokey to stop Baxter's invasion and ultimate endgame.
 
 ## :cyclone: How to Play <a id="how-to-play"/>
 
-### Objective
+### Objective <a id="objective"/>
 
 In each stage, search for the teleporter ***beacons*** and destroy them. Every stage has _at least_ one beacon\*, and they might be surrounded by checkered flags _(for visibility)_.
 
@@ -106,14 +109,14 @@ In each stage, search for the teleporter ***beacons*** and destroy them. Every s
 
 _\* Note: Sale and Palace stages don't have beacons._
 
-### Movement
+### Movement <a id="movement"/>
 
 Use the arrow keys or the d-pad/analog-stick to move around.
 To pick up an item (such as food, gems, powerups etc.), just hop over it. If you are full on health, hearts and med-packs will stay on the ground.
 
 Use your primary action ([see controls](#controls)). This action allow's you to fire your weapon, toggle swtiches, purchase items, and talk to NPCs,
 
-### Shooting
+### Shooting <a id="shooting"/>
 
 Your main weapon is the ***flamethrower***. With this, you can fire volleys of fireballs at your enemies, trees, and barrels &mdash; setting them ablaze!
 The *flamethrower* has two actions: _shoot_ and _charge_.
@@ -139,7 +142,7 @@ _\* Note: you'll need to acquire the shield for some of these moves. The shield 
 <div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-### Heat Bar
+### Heat Bar <a id="heat-bar"/>
 
 | :warning: *Caution!*                                                                     |
 | :--------------------------------------------------------------------------------------- |
@@ -183,7 +186,46 @@ Touch one and it'll turn green, marking that location as your new respawn point.
 <div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-## :cyclone: Money / Loot <a id="loot"/>
+## :cyclone: Pickups and Helpful Items <a id="pickup-items"/>
+
+These items will help you along the way. Keep an eye out for them!
+
+| Icon                                   | Name            | Ability                                                          |
+|----------------------------------------|:---------------:|------------------------------------------------------------------|
+| ![Heart](images/item-heart.png)        | Heart           | Adds +1 HP (one whole heart) to health bar                       |
+| ![Health Pack](images/item-medkit.png) | Health Pack     | Restores HP to max                                               |
+| ![Coolant](images/item-coolant.png)    | Coolant         | Automatically used if you overheat -- saves you from overheating |
+| ![Grenade](images/item-grenade.png)    | Grenade         | Adds +1 Grenade to your inventory                                |
+| ![Armor](images/item-armor.png)        | Armor           | Wearable armor (protection varies based on price)                |
+| ![Extra Life](images/item-1up.png)     | Extra Life      | Rewards +1 Extra Lives                                           |
+| ![HP Potion](images/item-potion.png)   | Max HP Potion   | Increases max HP by +1                                           |
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Powerups <a id="powerups"/>
+
+Grab these powerups for new abilities. These only last a limited time.
+
+| Icon                                           | Name            | Ability                                                  |
+|------------------------|-----------------------------------------|----------------------------------------------------------|
+| ![Rocket Power](images/pow-rocket.png)         | Rocket Power    | Normal firepower is replaced with rockets                |
+| ![Triple-Spread](images/pow-triad.png)         | Triple Shot     | Triples the number of flames for the flamethrower        |
+| ![Ring O' Fire](images/pow-fireshield.png)     | Ring O' Fire    | Ring of circling fireballs that deals damages to enemies |
+| ![Root Beer Float](images/root-beer-float.png) | Root Beer Float | Invincibility plus extra hop-speed                       |
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
+<div style="page-break-after:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Getting Money <a id="loot"/>
 
 Food and gems _(aka "loot")_ are valuable items worth varying amounts.
 Collect these to build up your spending money. Gems are worth more than food.
@@ -246,7 +288,7 @@ Move over the item to pick it up and it'll add to your total money/loot amount _
 <br/><center>\*&emsp;\*&emsp;\*</center>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-## :cyclone: Weapons and Upgrades <a id="weapons-and-upgrades"/>
+## :cyclone: Spending Money<a id="spending-money"/>
 
 On the world map are levels that have a "SALE" icon over them. These
 are the shop levels, where you can buy cool things. Items for sale are
@@ -258,65 +300,6 @@ the chest will pop open and give you the item.
 Sometimes you can buy items from the merchants themselves. Walk up to
 one in the same way and use primary action to initiate the dialog. They
 might have something to offer!
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Useful Items <a id="useful-items"/>
-
-These items will help you along the way. Keep an eye out for them!
-
-| Icon                                   | Name            | Ability                                                      |
-|----------------------------------------|:---------------:|--------------------------------------------------------------|
-| ![Heart](images/item-heart.png)        | Heart           | Adds +1 HP (one whole heart) to health bar                   |
-| ![Health Pack](images/item-medkit.png) | Health Pack     | Restores HP to max                                           |
-| ![Coolant](images/item-coolant.png)    | Coolant         | Automatically used if you overheatSaves you from overheating |
-| ![Grenade](images/item-grenade.png)    | Grenade         | Adds +1 Grenade to your inventory                            |
-| ![Armor](images/item-armor.png)        | Armor           | Wearable armor (protection varies based on price)            |
-| ![Extra Life](images/item-1up.png)     | Extra Life      | Rewards +1 Extra Lives                                       |
-| ![HP Potion](images/item-potion.png)   | Max HP Potion   | Increases max HP by +1                                       |
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Powerups <a id="powerups"/>
-
-Grab these powerups for new abilities. These only last a limited time.
-
-| Icon                                           | Name            | Ability                                                  |
-|------------------------|-----------------------------------------|----------------------------------------------------------|
-| ![Rocket Power](images/pow-rocket.png)         | Rocket Power    | Normal firepower is replaced with rockets                |
-| ![Triple-Spread](images/pow-triad.png)         | Triple Shot     | Triples the number of flames for the flamethrower        |
-| ![Ring O' Fire](images/pow-fireshield.png)     | Ring O' Fire    | Ring of circling fireballs that deals damages to enemies |
-| ![Root Beer Float](images/root-beer-float.png) | Root Beer Float | Invincibility plus extra hop-speed                       |
-
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<br/><center>\*&emsp;\*&emsp;\*</center>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-## :cyclone: Experience Points <a id="xp-points"/>
-
-Right above the heat bar is the **xp bar**. As you destroy enemies,
-you'll see sparkles that fly towards you. As you collect these, your xp
-bar will fill up. When it fills up completely, your flamethrower will
-automatically level-up to the next level and become more powerful. Level
-three is the highest level you can attain from the start. Later in the
-game, you can purchase upgrades that'll let you access higher levels.
-Once you reach the highest level, if your xp bar fills up again, you'll
-be rewarded with an extra life.
-
-Dying will cause your xp bar to reset and your flamethower to revert to
-the first level.
 
 
 
@@ -346,6 +329,24 @@ Watch out for these folk, they will try to hurt you!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+## :cyclone: Experience Points and Leveling Up<a id="xp-points"/>
+
+Right above the heat bar is the **xp bar**. As you destroy enemies,
+you'll see sparkles that fly towards you. As you collect these, your xp
+bar will fill up. When it fills up completely, your flamethrower will
+automatically level-up to the next level and become more powerful. Level
+three is the highest level you can attain from the start. Later in the
+game, you can purchase upgrades that'll let you access higher levels.
+Once you reach the highest level, if your xp bar fills up again, you'll
+be rewarded with an extra life.
+
+Dying will cause your xp bar to reset and your flamethower to revert to
+the first level.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<br/><center>\*&emsp;\*&emsp;\*</center>
 <div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
@@ -357,10 +358,7 @@ Watch out for these folk, they will try to hurt you!
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
 
 ## :cyclone: Default Controls <a id="controls"/>
 
@@ -395,7 +393,9 @@ For reference, here are the default configurations.
         Toggle Switch..................A &mdash; while close-up and facing switch
         Special Attack (Cannonball)....Charge until full, then press A while B is still held down
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <div style="page-break-after:always"></div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
  * ___Xbox 360 Controller___
 
@@ -415,7 +415,6 @@ For reference, here are the default configurations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/><center>\*&emsp;\*&emsp;\*</center>
-<div style="page-break-after:always"></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## :cyclone: Custom Controller Setup <a id="controller-setup"/>
@@ -450,9 +449,3 @@ _Additional Notes_
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 # Thanks for playing!<br/><br/>:bomb: :penguin: :coffee: :chocolate_bar:
-
-clans, tribes, nationalities
-breeds, broods, bloods
-brotherhoods, gangs, fellowships, guilds
-club, house, branch
-camps, cohorts, companies
